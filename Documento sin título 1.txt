@@ -1,0 +1,3 @@
+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
+
+git remote set-url origin https://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@github.com/marcosleura/inicio32c.git
